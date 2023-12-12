@@ -1,0 +1,2 @@
+# pytorch-customdataset
+pytorchのカスタムデータセットをMNISTの手書き文字データセットで作成
